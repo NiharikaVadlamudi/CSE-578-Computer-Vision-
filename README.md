@@ -7,3 +7,6 @@ All Assignments/Projects solved as part of this course.
 * A3 - GrabCut & MRF
 * A4 - Image Segmentation using CNNs
 * A5 - Optical Flow 
+
+# Note 
+- All the solutions are final and updated .
